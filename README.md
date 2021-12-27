@@ -10,4 +10,7 @@ Feel free to modify the Tool.
 
 Do you want to contact me?
 
-Discord: FreeCabbo6#8203 Telegram: @cabboshiba
+Discord: FreeCabbo7#8489 Telegram: @cabboshiba
+
+----------------------------------------------
+NOTE: DemonTeam decided to leak the SourceCode, so I decided to upload it, on 27/12/2021.
